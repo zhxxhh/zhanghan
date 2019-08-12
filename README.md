@@ -1,6 +1,2 @@
-# zhanghan
+#private property
 
-this is my property
-
-good luck~!~
-hello!!
